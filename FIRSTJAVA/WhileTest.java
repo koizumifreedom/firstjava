@@ -5,7 +5,7 @@ public class WhileTest {
       int number = 1;             //番号（1から始まる）
       while(number <= 10) {       //()の中の条件判定結果がtureの場合:ブロック実行（繰り返す）/falseの場合:ブロックをスキップ
           System.out.println(number + "!!");
-          number++;   //iに1を加算する
+          number++;   //iに1を加算
       } 
   }
   
