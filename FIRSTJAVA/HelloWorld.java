@@ -1,7 +1,7 @@
 package FIRSTJAVA;
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Hello,World!!");
+    System.out.println("Hello,World java!!");
     // System.out.printlnはカッコの中を表示させる
     // printlnのlnは改行の意味がある
     // "Hello,World!!"ダブルクォーテーションを忘れないように
