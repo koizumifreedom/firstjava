@@ -41,6 +41,7 @@ public class ArrayTest {
       //拡張for文のパターン
       for (String customer2Value : customer2) {
           System.out.println(customer2Value);
+          
       }
   }
 }

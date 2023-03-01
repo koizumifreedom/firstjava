@@ -30,5 +30,8 @@ public class PackageTest {
 
 //        jp.co.funatz.pkgTest.a.PackageA.a();   //FQCNで指定する
 //        jp.co.funatz.pkgTest.b.PackageB.b();
+//add java 
     }
 }
+
+
